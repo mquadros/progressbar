@@ -12,9 +12,9 @@ bar = Bar(100)
 
 for x in range(100):
 
-	bar.update(x)
+    bar.update(x)
 
-	time.sleep(.02)
+    time.sleep(.02)
 	
 bar.update(100)
 
